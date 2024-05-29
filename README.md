@@ -2,13 +2,13 @@
 E-commerce application built with Laravel, Vue.js, Tailwind.css and Alpine.js. <br>
 
 ## Demo
-Admin Panel: https://admin.lcommerce.net
+Admin Panel: https://admin.billmod.com
 ```
 Email: admin@example.com
 Password: admin123
 ```
 
-Website: https://lcommerce.net
+Website: https://billmod.com
 
 ```
 Email: user1@example.com
